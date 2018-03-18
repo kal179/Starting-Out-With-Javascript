@@ -1,5 +1,7 @@
 # Starting-Out-With-Javascript
-Scripts, Some Basic Algorithms, Little Syntax Descriptions that i wrote while I was learning Js,</br>
+<p>
+<i>Scripts, Some Basic Algorithms, Little Syntax Descriptions</i> that i wrote while I was learning Js,</br>
 All scripts contain proper comments and explaination.</br>
-I'd love to hear improvements, suggestions, and recommendations.</br>
+I'd love to hear <b>improvements</b>, <b>suggestions</b>, and <b>recommendations</b>.</br>
 contact: kalpaktake@gmail.com
+</p>
